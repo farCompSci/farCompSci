@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farCompSci aka Farjad Madataly, currently a sophomore in Computer Science
+- 👋 Hi, I’m @farCompSci aka Farjad Madataly, currently a junior in Computer Science
 - 👀 I’m interested in making software that works, singing, and travelling
 - 🌱 I’m currently learning how to make Websites, as well as Data Structures and Algorithms
 - 📫 You can reach me through email at farjadmadataly18@gmail.com
