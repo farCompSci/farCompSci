@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @farCompSci aka Farjad Madataly, currently a junior in Computer Science
-- 👀 I’m interested in making software that works, singing, and travelling
-- 🌱 I’m currently learning how to make Websites, as well as Data Structures and Algorithms
-- 📫 You can reach me through email at farjadmadataly18@gmail.com
+- Hi, I’m @farCompSci aka Farjad Madataly, currently a junior Computer Science & Mathematics Major. 
+- I am currently learning Fullstack Web Development with HTML, Bootstrap, Node, Express, and PSQL. 
+- I have some familiarity with Cybersecurity practices, including password cracking, nmap, open source intelligence, cryptography after participating in the National Cyber League competition
+- I am also familiar with the basics of AI and ML, using libraries such as Tensorflow or scikit-learn
+- 📫 You can reach me through email at farjadmadataly18@gmail.com 
 
 <!---
 farCompSci/farCompSci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
