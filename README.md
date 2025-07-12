@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Farjad 👋</h1>
 <p align="center">
-  <em>@farCompSci • CS & Math Graduate • Tech + Startup Enthusiast</em>
+  <em>@farCompSci • CS & Math Graduate • AI Engineer @ Lewis & Clark College and @ Common Era LLC: AI Consultants</em>
 </p>
 
 ---
